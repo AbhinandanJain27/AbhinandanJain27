@@ -8,7 +8,7 @@
 <!-- This if for showing my stats on my profile -->
 ![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinandanjain27&show_icons=true&theme=ambient_gradient)
 <!-- This it the link to add extra Repositories to my profile. Or can say important ones-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinandanjain27a&repo=github-readme-stats&theme=ambient_gradient)](https://github.com/abhinandanjain27/tdDoList)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinandanjain27a&repo=github-readme-stats&theme=ambient_gradient)](https://github.com/abhinandanjain27/Ecommerce)
 <!-- This is to show languages used in projects  -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandanjain27&layout=donut-vertical&theme=ambient_gradient)](https://github.com/abhinandanjain27/github-readme-stats)
 
@@ -16,10 +16,10 @@
 #### Top Repositories
 
 
-<a href="https://github.com/abhinandanjain27/">
+<a href="https://github.com/abhinandanjain27/Ecommerce">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinandanjain27&repo=github-readme-stats&theme=ambient_gradient" />
 </a>
-<a href="https://github.com/abhinandanjain27/">
+<a href="https://github.com/abhinandanjain27/Ecommerce">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinandanjain27&repo=anuraghazra.github.io&theme=ambient_gradienty" />
 </a>
 
