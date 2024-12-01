@@ -1,5 +1,5 @@
-### Hello World 👋 It's [Abhinandan Jain] 
-# I a passionate software developer who loves building and contributing to open-source projects. Feel free to explore my repositories, check out my work, and get     in touch!
+# Hello World 👋 It's [Abhinandan Jain] 
+### I a passionate software developer who loves building and contributing to open-source projects. Feel free to explore my repositories, check out my work, and get     in touch!
 <!--(https://sakigo9.github.io/MyPortfolio/) add this after Abhinandan Jain to create a link--> 
 <br/>
 
@@ -63,7 +63,6 @@ Hi,I'm Abhinandan Jain🙌, a full stack JAVA Developer, Musician and an Enterpr
 
 <!-- This if for showing my stats on my profile -->
 ![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinandanjain27&show_icons=true&theme=ambient_gradient)
->
 <br />
 <!-- This is to show languages used in projects  -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandanjain27&layout=donut-vertical&theme=ambient_gradient)](https://github.com/abhinandanjain27/github-readme-stats)
