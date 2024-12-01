@@ -16,11 +16,11 @@
 #### Top Repositories
 
 
-<a href=["https://github.com/abhinandanjain27/Ecommerce](https://github.com/AbhinandanJain27/Ecommerce)">
+<a href="https://github.com/abhinandanjain27/Ecommerce">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinandanjain27&repo=Ecommerce&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/abhinandanjain27/Ecommerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinandanjain27&repo=Ecommerce&theme=ambient_gradienty" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinandanjain27&repo=Ecommerce&theme=ambient_gradient" />
 </a>
 
 <br />
