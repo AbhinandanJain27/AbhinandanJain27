@@ -1,4 +1,4 @@
-# Hello World 👋 It's [Abhinandan Jain] 
+# Hello World 👋 It's Abhinandan Jain 
 ### I a passionate software developer who loves building and contributing to open-source projects. Feel free to explore my repositories, check out my work, and get     in touch!
 <!--(https://sakigo9.github.io/MyPortfolio/) add this after Abhinandan Jain to create a link--> 
 <br/>
@@ -55,7 +55,8 @@ Hi,I'm Abhinandan Jain🙌, a full stack JAVA Developer, Musician and an Enterpr
 -->
 <br />
 **Languages and Tools:**
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
